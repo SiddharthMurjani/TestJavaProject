@@ -8,7 +8,7 @@ public class File1 {
     }
 
     public static void file1Method(String[] args) {
-        file1Method();
+        // file1Method();
         File2.file2Method();
     }
 }
